@@ -87,6 +87,6 @@ This project is for educational purposes only. Feel free to use and modify.
 
 ## 🙋‍♀️ Author
 
-Developed by **Ananya**
+Developed by **Ananya K R**
 📫 For questions, reach out via GitHub or comments on this repository.
 
